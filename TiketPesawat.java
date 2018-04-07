@@ -1,4 +1,5 @@
-satu
-dua
-tiga
-empat
+public class TiketPesawat {
+	public static void main(String[] args) {
+		
+	}
+}
